@@ -92,6 +92,9 @@ aboutmsg= """> BOTEATER SIMPLE PROTECT <
 Hery Winarto
 BotEater
 
+> REWORK <
+Yuda Adi Pratama
+
 > VERSION <
 V.1 BETA
 
